@@ -37,4 +37,5 @@ I chose the primary and foreign keys types, including data types carefully to en
 
 # Entity Relationship Diagram
 
-![image](https://github.com/user-attachments/assets/de7d53e0-822a-483a-9200-0aef9217d5d0)
+![image](https://github.com/user-attachments/assets/31679aa9-492d-4b4d-973f-43c32b98c0d5)
+
